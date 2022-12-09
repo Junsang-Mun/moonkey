@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_perigoso_keyswitch-kicad-library/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
   (lib (name "Switch_Keyboard_Cherry_MX")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty")(options "")(descr ""))
+  (lib (name "PJ320A")(type "Legacy")(uri "${KIPRJMOD}/moonkey_library/PJ320A/PJ320A.kicad_mod")(options "")(descr ""))
+  (lib (name "moonkey")(type "KiCad")(uri "${KIPRJMOD}/moonkey_library/moonkey.pretty")(options "")(descr ""))
 )
